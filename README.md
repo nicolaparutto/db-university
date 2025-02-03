@@ -1,6 +1,6 @@
 DB-University
 ===
-## Consegna:
+## Consegna (esercizio 1):
 Modellizzare la struttura di un database per memorizzare tutti i dati riguardanti una università:
 
 - Sono presenti diversi Dipartimenti (es.: Lettere e Filosofia, Matematica, Ingegneria ecc.);
@@ -13,3 +13,8 @@ Modellizzare la struttura di un database per memorizzare tutti i dati riguardant
 - Per ogni appello d’Esame a cui lo Studente ha partecipato, è necessario memorizzare il voto ottenuto, anche se non sufficiente.
 
 Pensare a quali entità (tabelle) creare per il nostro database e cerchiamo poi di stabilirne le relazioni. Infine, definire le colonne e i tipi di dato di ogni tabella.
+
+## Consegna (esercizio 2):
+Dopo aver creato un nuovo database nel nostro MySQL Workbench e aver importato lo schema allegato, eseguire le query del file allegato.
+
+- Dopo aver testato le nostre query con MySQL Workbench, riportarle in un file txt e caricarle nella repository.
