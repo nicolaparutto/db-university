@@ -18,3 +18,6 @@ Pensare a quali entità (tabelle) creare per il nostro database e cerchiamo poi 
 Dopo aver creato un nuovo database nel nostro MySQL Workbench e aver importato lo schema allegato, eseguire le query del file allegato.
 
 - Dopo aver testato le nostre query con MySQL Workbench, riportarle in un file txt e caricarle nella repository.
+
+## Consegna (esercizio 3):
+Utilizzando lo stesso database di ieri, eseguire le query in allegato. Caricare un secondo file nella repo (db-university) con le query di oggi.
